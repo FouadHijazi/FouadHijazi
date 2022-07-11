@@ -5,7 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FouadHijazi](https://github.com/FouadHijazi)
 
-- 📫 How to reach me **Fouad.o.hijazi@gmail.com**
+- 📫 How to reach me 
+-- 	:mountain_snow: **Fouad.o.hijazi@gmail.com**
+
+- **Fouad.o.hijazi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
