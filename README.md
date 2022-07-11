@@ -3,9 +3,9 @@
 
 - 👯 I’m looking to collaborate on **New Job Opportunity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FouadHijazi](https://github.com/FouadHijazi)
+- 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me 
+- 📫 How to reach me  :
 -- 	:mountain_snow: **Fouad.o.hijazi@gmail.com**
 
 - **Fouad.o.hijazi@gmail.com**
