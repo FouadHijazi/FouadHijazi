@@ -15,7 +15,7 @@
    <span></br>
 <img src="https://camo.githubusercontent.com/76ceacdcbd7ececca91b227fa27cdccfc7091db22f65a0acd6dcb57c84a1507b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d5265647578266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Redux-red?style=for-the-badge&amp;logo=Redux&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/281aa2d4f8380280338b06a78ef0fbe1f99b93527b1c85470cb91cd1ffce64f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/9205beb140a3718c2aaf534514acd708d36a8f5e1f1fc6ea16a9f697cf48fc6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d45787072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Express-blue?style=for-the-badge&amp;logo=Express&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/9205beb140a3718c2aaf534514acd708d36a8f5e1f1fc6ea16a9f697cf48fc6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d45787072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/90d09c5300e9bf274faebc69260a092ee1e20ef0a2c8f399090d68fc754c2f51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=MySQL&amp;logoColor=white" style="max-width: 100%;">
 
 - Project "Ataa Donation Org." : https://github.com/C5-FouadHijazi/MERAKI_Academy_Project_4 
@@ -32,16 +32,14 @@
 <img  src="https://camo.githubusercontent.com/0339b48b5895c77a44667a7c1b50ce0610af51a284f6d5007fa720c5c83f330c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&amp;logo=MongoDB&amp;logoColor=white" style="max-width: 100%;">
 
 ---------------------------------------------------------------------
+<h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me  :  **Fouad.o.hijazi@gmail.com**
+
 -	📞 Direct Phone : **+90 5388 96 42 47**
 
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fouad-hijazi/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fouad-hijazi/" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
