@@ -4,8 +4,8 @@
 - 👯 I’m looking to collaborate on **New Job Opportunity**
 
 - 👨‍💻 All of my projects are available at  : 
--Project "Big-Bite Restaurant" : **(https://github.com/HEXTERS-CODER/MERAKI_Academy_Project_5) .
--Project "Ataa Donation Org." : **(https://github.com/C5-FouadHijazi/MERAKI_Academy_Project_4).
+-Project "Big-Bite Restaurant" : https://github.com/HEXTERS-CODER/MERAKI_Academy_Project_5
+-Project "Ataa Donation Org." : https://github.com/C5-FouadHijazi/MERAKI_Academy_Project_4 
 
 - 📫 How to reach me  :  **Fouad.o.hijazi@gmail.com**
 -	📞 : **+90 5388 96 42 47**
