@@ -43,7 +43,7 @@
 
 -	📞 Direct Phone : **+90 5388 96 42 47**
 
-- <p align="left">
+<p align="left">
 <a href="https://www.linkedin.com/in/fouad-hijazi/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fouad-hijazi/" height="30" width="40" /></a>
 </p>
 
