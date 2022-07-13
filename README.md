@@ -16,6 +16,7 @@
 <p  align="center">
 💼  Check my Portfolio : https://fouadhijaziportofoilo.netlify.app/
 </p>
+<hr>
 <p  align="center">
  Project "Big-Bite Restaurant" : https://github.com/HEXTERS-CODER/MERAKI_Academy_Project_5
  Done With :
@@ -52,7 +53,7 @@
 <img  src="https://camo.githubusercontent.com/0339b48b5895c77a44667a7c1b50ce0610af51a284f6d5007fa720c5c83f330c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&amp;logo=MongoDB&amp;logoColor=white" style="max-width: 100%;">
 </p>
 </p>
-                                 ----------------------------------------------------------------------------------------------------
+                   <hr>
 
 <h3 align="center">Connect with me:</h3>
 <p  align="center">
